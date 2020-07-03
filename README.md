@@ -11,3 +11,7 @@ I'm a part time graduate student in the Engineering and Technology Innovation Ma
 # What I hope to learn
 
 While I already have a strong affinity for graphs and charts, I sometimes have the tendency to overcomplicate them in order to convey a complicated message. In this course I hope to learn how to make more eye catching, concise, and effective illustrations of the data and goals of my projects. This skill would be invaluable in  both in my current job and every job in my future!
+
+# Portfolio
+
+This section will house the artwork that I curate over the course of this semester. 
