@@ -1,4 +1,4 @@
-# DataStories
+# Thomas_Portfolio
 
 https://coryt396.github.io/DataStories/
 
