@@ -15,4 +15,4 @@ While I already have a strong affinity for graphs and charts, I sometimes have t
 # Portfolio
 
 Check out this fancy work detailing government debt! Lots and lots of debt!
-(/DataVisualization2)
+(/DataVisualization2.md)
