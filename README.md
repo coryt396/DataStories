@@ -14,6 +14,5 @@ While I already have a strong affinity for graphs and charts, I sometimes have t
 
 # Portfolio
 
-In 2017, The Economist published an article describing the growing financial trouble within Brazil due to the current pension policies in the country. With an aging population, the country could reach a point where 1/5 of it's GDP is diverted to supporting pension benefits if changes are not made.
-
-https://user-images.githubusercontent.com/67769481/86990191-056dd680-c16a-11ea-914c-0c34d042216e.png
+Check out this fancy work detailing government debt! Lots and lots of debt!
+(/DataVisualization2.md)
