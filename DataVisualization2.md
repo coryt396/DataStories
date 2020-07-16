@@ -3,5 +3,7 @@ Below you will find a figure describing the debt load of numerous countries, sho
  
  <div class="flourish-embed flourish-chart" data-src="visualisation/3190444" data-url="https://flo.uri.sh/visualisation/3190444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
+ <div class="flourish-embed flourish-scatter" data-src="visualisation/3191025" data-url="https://flo.uri.sh/visualisation/3191025/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
  
 [And here is the link to the home page](/README.md)
