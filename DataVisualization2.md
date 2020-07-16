@@ -1,4 +1,4 @@
-# Government Debt Levels are Dangerously High in Some Powerful Countries
+# Government Debt Levels are Dangerously High in Some Countries
 
 Below you will find a figure describing the debt burdens of numerous countries as of 2018. The OECD publishes these numbers to serve as key indicators for the sustainability of a government's financial system. 
 
