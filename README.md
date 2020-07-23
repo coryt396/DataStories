@@ -16,4 +16,4 @@ While I already have a strong affinity for graphs and charts, I sometimes have t
 
 [Check out this fancy work detailing government debt! Lots and lots of debt!](/DataVisualization2.md)
  
-[Here's a really interesting take on the future of heavy freight. Things may get a lot more green in the near future!](/EVTrucks.md)
+[Here's a really interesting take on the future of heavy freight.](/EVTrucks.md)
