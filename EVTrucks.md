@@ -12,7 +12,7 @@ Based on the important message and the lack of clarity in the delivery, I though
 
 This feedback led me to create my wireframe, which was quite similar to the end product - except for my inclusion of some annotations. It turned out that while I limited annotations in my diagram, they were still confusing and detracted from the message. 
 
-![wire](/https://user-images.githubusercontent.com/67769481/88248558-9b782580-cc6f-11ea-8160-d9c46bc94d1d.png)
+![wire](https://user-images.githubusercontent.com/67769481/88248558-9b782580-cc6f-11ea-8160-d9c46bc94d1d.png)
 
 With this in mind, I opted instead to replace the markers with each vehicle's brand. This allows the viewer to see trends in the data without permanent annotations on each, and if they want to know more about the specific model they can reference the data table or mouse over the data point for the detailed annotation.
 
