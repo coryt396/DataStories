@@ -14,8 +14,8 @@ While I already have a strong affinity for graphs and charts, I sometimes have t
 
 # Portfolio
 
-[Check out this fancy page detailing government debt! Lots and lots of debt!](/DataVisualization2.md)
+[Check out this fancy page](/DataVisualization2.md) detailing government debt! Lots and lots of debt!
  
-[This page is a really interesting take on the future of heavy freight.](/EVTrucks.md)
+[This page](/EVTrucks.md) is a really interesting take on the future of heavy freight.
 
-[For those interested in the future of electric vehicles, check out my final project here].(/Final_Project_Thomas.md)
+For those interested in the future of electric vehicles, check out my final project [here](/Final_Project_Thomas.md).
