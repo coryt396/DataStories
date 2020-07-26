@@ -9,6 +9,7 @@ deterred many average americans from seriously considering electric vehicles so 
 
 #Outline
 
+[](story arc.pdf)
 
 
 #Data
