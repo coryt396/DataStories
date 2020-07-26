@@ -9,7 +9,8 @@ deterred many average americans from seriously considering electric vehicles so 
 
 # Outline
 
-![Story Arc](/Story%20arc.pdf)
+![Story ArcTry1](/Story%20arc.pdf)
+![Story Arc Try2](/Story arc.pdf)
 
 
 # Data
