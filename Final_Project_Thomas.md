@@ -9,8 +9,8 @@ deterred many average americans from seriously considering electric vehicles so 
 
 # Outline
 
-![Story ArcTry1](/Story%20arc.pdf)
-![Story Arc Try2](Story arc.pdf)
+![Story Arc]((https://github.com/coryt396/DataStories/files/4978663/Story.arc.pdf))
+
 
 
 # Data
