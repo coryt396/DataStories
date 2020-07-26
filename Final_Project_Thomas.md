@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 There is so much technological advancement constantly being touted, it is sometimes hard to appreciate the strides modern society has made in certain areas. 
 One of those areas is Electric Vehicle technology. When electric vehicles were introduced in earnest around the year 2000, they were relatively unattractive, 
@@ -7,20 +7,20 @@ carmaker at the forefront of this charge has commanded a high price point for sp
 deterred many average americans from seriously considering electric vehicles so far. The latest cars to come to market and the continuously improving electric vehicle infrastructure have now made it highly economical and environmentally friendly to own and operate these EV's!
 
 
-#Outline
+# Outline
 
-<script src="http://gist-it.appspot.com/http://github.com/https://github.com/coryt396/DataStories/blob/master/Story%20arc.pdf"></script>
-
-
-#Data
+![Story Arc](https://github.com/coryt396/DataStories/blob/master/Story%20arc.pdf)
 
 
-
-#Initial Sketches
+# Data
 
 
 
-#Wireframes
+# Initial Sketches
+
+
+
+# Wireframes
 
 
 
