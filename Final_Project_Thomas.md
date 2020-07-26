@@ -4,8 +4,7 @@ There is so much technological advancement constantly being touted, it is someti
 One of those areas is Electric Vehicle technology. When electric vehicles were introduced in earnest around the year 2000, they were relatively unattractive, 
 somewhat expensive, and suffered from drawbacks like poor cargo space. In the years since then, the electric vehicle market has grown appreciably but the 
 carmaker at the forefront of this charge has commanded a high price point for sporty looking, practical, and technology packed vehicles. This price point has 
-deterred many average americans from seriously considering electric vehicles so far. The latest cars to come to market and the continuously improving electric vehicle
-infrastructure have now made it highly economical and environmentally friendly to own and operate these EV's!
+deterred many average americans from seriously considering electric vehicles so far. The latest cars to come to market and the continuously improving electric vehicle infrastructure have now made it highly economical and environmentally friendly to own and operate these EV's!
 
 
 #Outline
