@@ -19,6 +19,7 @@ The target users here can be summed up with the following two user statements:
 
 2) I want to be informed about the latest technology in order to be an early adopter of the latest and greatest. 
 
+The medium I intend to use for this presentation is Shorthand. This program appears to be a somewhat simple, yet powerful tool that will allow me to produce a high quality web-based presentation that can integrate all of the charts and media I hope to utilize. The media I plan to embed will include a timeline as well as some other charts that will probably consist of line and bar charts, but that is still yet to be determined!
 
 # Data
 
