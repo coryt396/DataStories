@@ -23,7 +23,7 @@ The medium I intend to use for this presentation is Shorthand. This program appe
 
 # Data
 
-the Tesla roadster was released in 2008 as the first highway legal, modern Li-ion battery all EV. It costed between $80,000 and $120,000 relative to the [average gas car MSRP after options being $30,400](/https://www.cnbc.com/2019/10/22/car-prices-are-rapidly-increasing-heres-why-thats-bad-for-americans.html#:~:text=Back%20in%202008%2C%20the%20average,car's%20overall%20price%20to%20%2430%2C400.) 
+the Tesla roadster was released in 2008 as the first highway legal, modern Li-ion battery all EV. [It costed between $80,000 and $120,000](https://en.wikipedia.org/wiki/Tesla_Roadster_(2008)) relative to the [average gas car MSRP after options being $30,400](/https://www.cnbc.com/2019/10/22/car-prices-are-rapidly-increasing-heres-why-thats-bad-for-americans.html#:~:text=Back%20in%202008%2C%20the%20average,car's%20overall%20price%20to%20%2430%2C400.) 
 
 Next, I'd call out the other most popular electric vehicles to be released around that time (Volt, 2011, $40,280 [wikipedia](https://en.wikipedia.org/wiki/Chevrolet_Volt) and Leaf, 2010, $25,000 [motortrend](https://www.motortrend.com/news/2010-nissan-leaf-first-look/))
 
