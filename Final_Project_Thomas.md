@@ -25,11 +25,45 @@ The medium I intend to use for this presentation is Shorthand. This program appe
 
 the Tesla roadster was released in 2008 as the first highway legal, modern Li-ion battery all EV. [It costed between $80,000 and $120,000](https://en.wikipedia.org/wiki/Tesla_Roadster_(2008)) relative to the [average gas car MSRP after options being $30,400](/https://www.cnbc.com/2019/10/22/car-prices-are-rapidly-increasing-heres-why-thats-bad-for-americans.html#:~:text=Back%20in%202008%2C%20the%20average,car's%20overall%20price%20to%20%2430%2C400.) 
 
-Next, I'd call out the other most popular electric vehicles to be released around that time (Volt, 2011, $40,280 [wikipedia](https://en.wikipedia.org/wiki/Chevrolet_Volt) and Leaf, 2010, $25,000 [motortrend](https://www.motortrend.com/news/2010-nissan-leaf-first-look/))
+Next, I'd call out the other most popular plug-in electric vehicles to be released in the first few years (2008-2012) 
+Vehicle sales source: https://afdc.energy.gov/data/10567
 
+Chevy Volt: $40,280 
+[wikipedia](https://en.wikipedia.org/wiki/Chevrolet_Volt)
+Nissan Leaf: $25,000 
+[motortrend](https://www.motortrend.com/news/2010-nissan-leaf-first-look/))
 
-# Initial Sketches
+Prius: $32,000
+https://www.cnet.com/roadshow/reviews/2012-toyota-prius-plug-in-review/
 
+Model S: $57,400
+https://www.autotrader.com/tesla/model-s/2012
+
+Ford C-Max: $26,000
+https://www.hybridcars.com/ford-c-max-hybrid/
+
+The data gained from these sources will allow me to put into perspective the relative costs and electric range possible at the various price points for these electric cars. I intend the data to show that the pure electric car plays with practical range were either cost prohibitive or the Nissan Leaf... though one could make the case that the Leaf didn't have very practical mileage for anything but a short commute with just 73 miles of range. 
+
+The chart I intend to make might look something like this:
+![image](https://user-images.githubusercontent.com/67769481/88746011-6e1cf300-d119-11ea-9f56-b92b08770d29.png)
+Sources: See above for individual vehicles
+
+I then want to talk about the inherent benefits in energy efficiency of electric over gasoline engines. Gasoline engines only have an efficiency of about 20-25%, meaning 75%-80% of the energy contained in the fuel is actually lost in heat, friction, and powering other components of the vehicle. For electric vehicles, the base efficiency is on the order of 60%, and with the use of regenerative braking this efficiency can reach as high as 77%. This means that the amount of energy etracted from whatever fuel was used goes 2-3 times further for electric cars!
+I'd also like to work in the cost per mile for fuel with gas or electric vehicles, and that will be looked into with my surveys. 
+
+This chart will likely look something like this. 
+
+![image](https://user-images.githubusercontent.com/67769481/88746205-f8fded80-d119-11ea-8f39-9a76fccf08db.png)
+Source:https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T07.02B#/?f=A&start=2000&end=2019&charted=1-2-3-5-8-14
+
+Next, I intend to talk about how power generation at the turn of the century was largely non-renewable so many people made the argument that even electric cars create more greenhouse gasses when the electricity is generated to power them. While this was true in years past, things have changed somewhat since then. I want to show a time series chart, probably a bar chart or a line plot showing how renewable energy adoption has grown between 2000 and 2020. 
+
+Once I cover this, I will turn to the highest growth renewable - solar. This product is being increasingly adopted, and because of that prices are falling and technology is improving. While not all of these savings are passed directly to residential consumers, the impacts are being felt somewhat. The chart will look like this.
+
+![image](https://user-images.githubusercontent.com/67769481/88746547-cd2f3780-d11a-11ea-8acd-afb60d752d5c.png)
+Source:https://www.seia.org/solar-industry-research-data
+
+Finally, I want to return to the original chart, but this time with an extension that goes past 2012 all the way to 2020. In this chart my intent will be to draw the viewer's eye to the fact that higher range cars are now coming at a lower price point that is more accessible to the everyday consumer. 
 
 
 # Wireframes
