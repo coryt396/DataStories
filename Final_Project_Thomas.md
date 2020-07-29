@@ -67,8 +67,9 @@ Finally, I want to return to the original chart, but this time with an extension
 
 
 # Wireframes
+The initial wireframe for my project shows how I intend to lay out the data. I plan to be very logical and take the audience through one point at a time to drive the points I am trying to make home with the benefit of context from previous points at each step. 
 
-
+![image](https://user-images.githubusercontent.com/67769481/88747659-3dd75380-d11d-11ea-9a08-e477dadfb68a.png)
 
 # User feedback 
 
