@@ -46,6 +46,7 @@ The data gained from these sources will allow me to put into perspective the rel
 
 The chart I intend to make might look something like this:
 ![image](https://user-images.githubusercontent.com/67769481/88746011-6e1cf300-d119-11ea-9f56-b92b08770d29.png)
+[Or This](/https://public.tableau.com/views/EarlyOptions/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 Sources: See above for individual vehicles
 
 I then want to talk about the inherent benefits in energy efficiency of electric over gasoline engines. Gasoline engines only have an efficiency of about 20-25%, meaning 75%-80% of the energy contained in the fuel is actually lost in heat, friction, and powering other components of the vehicle. For electric vehicles, the base efficiency is on the order of 60%, and with the use of regenerative braking this efficiency can reach as high as 77%. This means that the amount of energy etracted from whatever fuel was used goes 2-3 times further for electric cars!
