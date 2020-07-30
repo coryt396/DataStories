@@ -122,11 +122,6 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
 # User feedback 
 
 
-
-
-d. the findings from your interviews; and 
-e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
-
   For my story, I hope to reach a target audience who is both willing to try new technology and who is looking to help in the initiative to minimize our carbon footprint. The most wealthy and dedicated early adopters and environmentalists are likely to have already joined the EV movement, but those who did not previously have the financial means to purchase the best EV's and more casual environmentalists may not have made the switch yet. These people are who I am looking to reach with this information. With the latest information provided and their previous inclination to adopt this sort of technology, I am confident that they will be convinced to at least consider an EV as their next car purchase.  
   
   For my interviewees, I chose from my close friends and picked a sub-section who are located across the spectrum of likelihood to become convinced to buy an EV. My brother is mechanically inclined, and currently owns a muscle car - quite the opposite of an EV. I don't think he'll be very willing to consider an EV because of his affinity for traditional automotive design and performance. While one could make the case that the performance of the latest EV's are impressive as well, I am sticking to the renewable energy and affordable nature of EV's as my main selling points. Another friend of mine is pretty ambivalent about cars. He owns a subaru and likes it well enough, but he's definitely not a car guy. He will probably be a wild card and could go either way. Lastly, I plan to interview my wife who I think will be very open to the idea. She is environmentally conscious, and also is as frugal as me. I would be willing to bet that she is very open to the idea of an EV as our next car after I make my case. 
@@ -148,12 +143,12 @@ e. changes you implemented to your sketches, storyboards and wireframes to addre
  
  Steve: "If I had to guess, you're trying to convey that Electric vehicles are better than gas vehicles."
  
- Lizzie: "I think you're trying to show how technology is improving and how it enables us to contribute to a more renewable future"
+ Lizzie: "I think you're trying to show how technology is improving and how it enables us to contribute to a more renewable future."
  
  ### Does the wireframe I showed you align well with this message within the story arc? If not, how could I improve it?"
  Blaise: "Yeah, now that I see this story arc, things actually got a little more clear. I see how the progression was supposed to go. I'd say they align well enough that with full context I think they're doing the job they are supposed to"
  
- Steve: "Looking at this, I think that there was a little more to this than I originally was focused on. The charts on the wireframe are a bit generic and it's a bit tough to separate one section from another when the images are the same. If you've got actual sketches though that may help. "
+ Steve: "Looking at this, I think that there was a little more to this than I originally was focused on. The charts on the wireframe are a bit generic and it's a bit tough to separate one section from another when the images are the same. If you've got actual sketches though, that may help. "
  
  Lizzie: "I think the wireframe definitely aligns well with the story arc. You're showing how EV technology has evolved since its introduction, and that's especially clear with the added information of the story arc. I don't really see much you should do to improve them, but I'd say you'd definitely want to show them together to get the full benefit. "
  
@@ -183,6 +178,16 @@ Lizzie: "When I look at this image, I see a sharp downward slope in the cost of 
 
   ### Review of Interviews
   
+  The takeaways from these conversations definitely varied, and the diverse perspectives helped get me some different ideas as well. For the first question, I recieved 3 different answers, and I think some of the ambiguity in the results from my storyboard is because I used the stock charts which look very similar to each other. I will probably try to integrate snapshots of my sketches to provide some different images that give better context. 
+  
+  For the second question, I had much of the same type of feedback specifically calling out that the story arc and the wireframe go hand in hand. I think it would be worthwhile to find a way to integrate more of the specific quotes from the story arc to the wireframe. This might help to better connect the two and make clear the takeaways from the presentation. 
+    
+   The third question was about sketch #1. This sketch showed the array of price vs. release year and range for the 5 most popular EV's in 2012. Nearly every person mentioned that the size of the bubbles was not clearly defined, so I'll need to make sure I have a legend in the next draft. In addition, I think it would be helpful to call out that these were the 5 most popular EV's in that timeframe. While it wasn't specifically called out by anyone, looking back that would provide some more context for why these are relevant. I thought the title was fairly clear, but based on the feedback the viewer may value a more catchy title over one that is simply practical. That's another thing I'll probably improve for next time. 
+   
+   The fourth question was regarding sketch #2. This sketch showed the energy efficiency of gas vs. electric motors. Color was called out here as being to bright and intense. While I wasn't making detailed choices for color in the sketches, I'll be sure to avoid colors with too much brightness in the next draft. Another thing brought up was the lack of title. In some cases, I simply rely on the axes to tell the story, but from this feedback I'd say this chart isn't one that has axes that stand on their own. I'll need to come up with a relevant and catchy title for this next version. Lastly, a really interesting point was raised about the relative operating cost of the two types of vehicles. This could be a good opportunity for a composite chart with two separate axes showing that relation as well as the breakdown of energy usage. 
+   
+   The final question was regarding sketch #3. This sketch was a line chart showing the decline in solar PV price.It wasn't immediately clear to some interviewees how this fit into everything to do with cars, so I'll need to make sure I address that either with another figure or just in discussion during my presentation. Another suggesion here was to create a composite chart for this as it is a very simple chart. With tihs suggesion, I coupled this with the growth in solar energy adoption for power generation in the US. This turned out to be a really good opportunity to put two simple charts together to one more robust point. Lastly, It was brought up that these prices may not directly translate to the price consumers pay in residential installations. I want to do some more digging at this source to see if I can find some figures or information to support or refute this idea. That would be a very important caveat if found to not translate to residential installs. At the very least that distinction would need to be called out somewhere on the figure.
   
 
-Go back to the home page by clicking [here!](/README.md)
+
+Go back to the home page by clicking [here.](/README.md)
