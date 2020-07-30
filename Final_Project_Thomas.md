@@ -117,7 +117,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 # Wireframes
 The initial wireframe for my project shows how I intend to lay out the data. I plan to be very logical and take the audience through one point at a time to drive the points I am trying to make home with the benefit of context from previous points at each step. 
 
-![image](https://user-images.githubusercontent.com/67769481/88747659-3dd75380-d11d-11ea-9a08-e477dadfb68a.png)
+![New Wireframe](https://user-images.githubusercontent.com/67769481/88877638-fe2f6b00-d1f3-11ea-99a6-ccb8c56afb4f.png)
 
 # User feedback 
 
@@ -180,7 +180,7 @@ Lizzie: "When I look at this image, I see a sharp downward slope in the cost of 
   
   The takeaways from these conversations definitely varied, and the diverse perspectives helped get me some different ideas as well. For the first question, I recieved 3 different answers, and I think some of the ambiguity in the results from my storyboard is because I used the stock charts which look very similar to each other. I will probably try to integrate snapshots of my sketches to provide some different images that give better context. 
   
-  For the second question, I had much of the same type of feedback specifically calling out that the story arc and the wireframe go hand in hand. I think it would be worthwhile to find a way to integrate more of the specific quotes from the story arc to the wireframe. This might help to better connect the two and make clear the takeaways from the presentation. 
+  For the second question, I had much of the same type of feedback specifically calling out that the story arc and the wireframe go hand in hand. I think it would be worthwhile to find a way to integrate more of the specific quotes from the story arc to the wireframe. It will likely help to better connect the two and make clear the takeaways from the presentation. For this reason, I went back and integrated sketches into my wireframe.
     
    The third question was about sketch #1. This sketch showed the array of price vs. release year and range for the 5 most popular EV's in 2012. Nearly every person mentioned that the size of the bubbles was not clearly defined, so I'll need to make sure I have a legend in the next draft. In addition, I think it would be helpful to call out that these were the 5 most popular EV's in that timeframe. While it wasn't specifically called out by anyone, looking back that would provide some more context for why these are relevant. I thought the title was fairly clear, but based on the feedback the viewer may value a more catchy title over one that is simply practical. That's another thing I'll probably improve for next time. 
    
