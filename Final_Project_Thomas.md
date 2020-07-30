@@ -165,9 +165,24 @@ e. changes you implemented to your sketches, storyboards and wireframes to addre
  
  Lizzie: "When I first look at this, I see the dots. My eye is drawn to the shapes, and then I begin to read the text next to each. I'm not sure what the text is telling me, so the next place I look would be the axes. The axes show me a progression in time as well as the price of the cars. I'm not seeing any explanation of the dot size though, so that's something I'd address for sure. "
  
- 
+  ### "Looking at sketch #2, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
+  Blaise: "The first thing I see here is the legend. I'm drawn to the cluster of color and I want to see what I'm going to be looking at. As soon as I get my bearings with that, I'm focused on the chart itself. I see that power to the wheels is much higher for EV's relative to gas. That's actually very interesting. One thing I'd probably change though is that the colors are a bit bright. It's harder for me to distinguish what's going on here through all of that brightness."
   
+  Steve: "The first thing I notice when looking at this is that there isn't a title. I generatlly start at the top, so next I'm looking at the legend to get an idea of what the chart is telling me. I see a couple different descriptions of energy losses, and the y axis confirms this. I would definitely add a title to provide quick context for this chart."
+  
+  Lizzie: " Looking at this chart, I see two bars of very bright colors. It seems to be a stacked bar chart, so they are comparing composition of two things. Looking at the x axis, we're comparing electric and gas cars. Taking a step back to read the legend and the y axis, I now understand that this is showing how much more efficiently electric cars use their energy. This is a pretty strong case in itself for the benefits of EV's. I'd be curious though how the costs of these energy sources differ. Is electric cheaper to run as well?"
+  
+  ### "Looking at sketch #3, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
+Blaise: "This last sketch looks to me like a line chart. My eye is immediately drawn to the line itself, which has a steep downward slope. Next place my eye wanders is the y axis to see what is dropping so fast. It't pretty impressive how much the cost of photovoltaics have dropped, but I'm not sure right off the bat how this fits into all of this. I'd make sure you explain that when giving the presentation."
+
+Steve: "When I first look at this sketch, I see the title "US Solar PV Price Declies". This does a pretty good job at explaining what the chart shows but this could probably be improved. This is a pretty simple graph, and there may be some benefit to tying this to another idea to make sure it is providing as much information as possible. "
+
+Lizzie: "When I look at this image, I see a sharp downward slope in the cost of photovoltaics. I'm actually surprised at how quickly this is falling, but I wonder if that actually translates to install cost for single family homes where EV's would get the most benefit from solar. This might be something good to look into."
+
+  ### Review of Interviews
+  
+  
 
 Go back to the home page by clicking [here!](/README.md)
