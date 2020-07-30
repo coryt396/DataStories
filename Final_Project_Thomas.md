@@ -121,7 +121,19 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
 
 # User feedback 
 
+Your user research protocol should clearly identify the following: 
 
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+
+  For my story, I hope to reach a target audience who is both willing to try new technology and who is looking to help in the initiative to minimize our carbon footprint. The most wealthy and dedicated early adopters and environmentalists are likely to have already joined the EV movement, but those who did not previously have the financial means to purchase the best EV's and more casual environmentalists may not have made the switch yet. These people are who I am looking to reach with this information. With the latest information provided and their previous inclination to adopt this sort of technology, I am confident that they will be convinced to at least consider an EV as their next car purchase.  
+  
+  For my interviewees, I chose from my close friends and picked a sub-section who are located across the spectrum of likelihood to become convinced to buy an EV. My brother is mechanically inclined, and currently owns a muscle car - quite the opposite of an EV. I don't think he'll be very willing to consider an EV because of his affinity for traditional automotive design and performance. While one could make the case that the performance of the latest EV's are impressive as well, I am sticking to the renewable energy and affordable nature of EV's as my main selling points. Another friend of mine is pretty ambivalent about cars. He owns a subaru and likes it well enough, but he's definitely not a car guy. He will probably be a wild card and could go either way. Lastly, I plan to interview my wife who I think will be very open to the idea. She is environmentally conscious, and also is as frugal as me. I would be willing to bet that she is very open to the idea of an EV as our next car after I make my case. 
+  For my interview, I plan to use the following script:
+  
 
 
 
