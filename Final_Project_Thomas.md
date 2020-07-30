@@ -121,11 +121,9 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
 
 # User feedback 
 
-Your user research protocol should clearly identify the following: 
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
+
+
 d. the findings from your interviews; and 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
@@ -133,9 +131,43 @@ e. changes you implemented to your sketches, storyboards and wireframes to addre
   
   For my interviewees, I chose from my close friends and picked a sub-section who are located across the spectrum of likelihood to become convinced to buy an EV. My brother is mechanically inclined, and currently owns a muscle car - quite the opposite of an EV. I don't think he'll be very willing to consider an EV because of his affinity for traditional automotive design and performance. While one could make the case that the performance of the latest EV's are impressive as well, I am sticking to the renewable energy and affordable nature of EV's as my main selling points. Another friend of mine is pretty ambivalent about cars. He owns a subaru and likes it well enough, but he's definitely not a car guy. He will probably be a wild card and could go either way. Lastly, I plan to interview my wife who I think will be very open to the idea. She is environmentally conscious, and also is as frugal as me. I would be willing to bet that she is very open to the idea of an EV as our next car after I make my case. 
   For my interview, I plan to use the following script:
+  "Based on this Wireframe, What do you believe the message is that I'm trying to convey?"
   
+  "Does the wireframe I showed you align well with this message within this story arc? If not, how could I improve it?"
+  
+  "Looking at sketch #1, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
+  "Looking at sketch #2, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
+  "Looking at sketch #3, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
+
+  
+ Upon conducting my interviews, these are the responses I received:
+### "Based on this Wireframe, What do you believe the message is that I'm trying to convey?"
+ Blaise: "Is the takeaway here that alternative energy is on the rise? I see you're talking about solar costs too, why is that specifically called out?"
+ 
+ Steve: "If I had to guess, you're trying to convey that Electric vehicles are better than gas vehicles."
+ 
+ Lizzie: "I think you're trying to show how technology is improving and how it enables us to contribute to a more renewable future"
+ 
+ ### Does the wireframe I showed you align well with this message within the story arc? If not, how could I improve it?"
+ Blaise: "Yeah, now that I see this story arc, things actually got a little more clear. I see how the progression was supposed to go. I'd say they align well enough that with full context I think they're doing the job they are supposed to"
+ 
+ Steve: "Looking at this, I think that there was a little more to this than I originally was focused on. The charts on the wireframe are a bit generic and it's a bit tough to separate one section from another when the images are the same. If you've got actual sketches though that may help. "
+ 
+ Lizzie: "I think the wireframe definitely aligns well with the story arc. You're showing how EV technology has evolved since its introduction, and that's especially clear with the added information of the story arc. I don't really see much you should do to improve them, but I'd say you'd definitely want to show them together to get the full benefit. "
+ 
+ ### "Looking at sketch #1, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
+ 
+ Blaise: "I see the different size dots first. The size difference is very noticeable, but I don't see anything clearly stated here that tells me what the size means. Is that number sold? After more time I'd probably suggest you work on a more engaging title for the chart. This one doesn't really inspire much."
+ 
+ Steve: "First thing I see is the title. Price & Utility of Early EV's. This chart is probably something showing price versus some metric, maybe performance, maybe range, maybe cargo space for these cars... After a little longer I'd say I'm getting the idea that the bubble size means something but I can't really figure out what it is. There are numbers next to each bubble but no explanation. I'd definitely fix that in the next iteration. 
+ 
+ Lizzie: "When I first look at this, I see the dots. My eye is drawn to the shapes, and then I begin to read the text next to each. I'm not sure what the text is telling me, so the next place I look would be the axes. The axes show me a progression in time as well as the price of the cars. I'm not seeing any explanation of the dot size though, so that's something I'd address for sure. "
+ 
+ 
+
+  
 
 
 Go back to the home page by clicking [here!](/README.md)
