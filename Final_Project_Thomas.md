@@ -44,7 +44,7 @@ https://www.hybridcars.com/ford-c-max-hybrid/
 
 The data gained from these sources will allow me to put into perspective the relative costs and electric range possible at the various price points for these electric cars. I intend the data to show that the pure electric car plays with practical range were either cost prohibitive or the Nissan Leaf... though one could make the case that the Leaf didn't have very practical mileage for anything but a short commute with just 73 miles of range. 
 
-The chart I intend to make might look something like this:
+The chart I intend to make would look like this:
 ![image](https://user-images.githubusercontent.com/67769481/88746011-6e1cf300-d119-11ea-9f56-b92b08770d29.png)
 
 <div class='tableauPlaceholder' id='viz1596069124647' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ea&#47;EarlyOptions&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EarlyOptions&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ea&#47;EarlyOptions&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>             <script type='text/javascript'>
@@ -58,7 +58,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 Sources: See above for individual vehicles
 
-I then want to talk about the inherent benefits in energy efficiency of electric over gasoline engines. Gasoline engines only have an efficiency of about 20-25%, meaning 75%-80% of the energy contained in the fuel is actually lost in heat, friction, and powering other components of the vehicle. For electric vehicles, the base efficiency is on the order of 60%, and with the use of regenerative braking this efficiency can reach as high as 77%. This means that the amount of energy etracted from whatever fuel was used goes 2-3 times further for electric cars!
+I then want to talk about the inherent benefits in energy efficiency of electric over gasoline engines. Gasoline engines only have an efficiency of about 20-25%, meaning 75%-80% of the energy contained in the fuel is actually lost in heat, friction, and powering other components of the vehicle. For electric vehicles, the base efficiency is on the order of 60%, and with the use of regenerative braking this efficiency can be in excess of 77%. This means that the amount of energy etracted from whatever fuel was used goes 2-3 times further for electric cars!
 I'd also like to work in the cost per mile for fuel with gas or electric vehicles, and that will be looked into with my surveys. 
 
 This chart will likely look something like this. 
@@ -145,14 +145,14 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
  
  Lizzie: "I think you're trying to show how technology is improving and how it enables us to contribute to a more renewable future."
  
- ### Does the wireframe I showed you align well with this message within the story arc? If not, how could I improve it?"
+### Does the wireframe I showed you align well with this message within the story arc? If not, how could I improve it?"
  Blaise: "Yeah, now that I see this story arc, things actually got a little more clear. I see how the progression was supposed to go. I'd say they align well enough that with full context I think they're doing the job they are supposed to"
  
  Steve: "Looking at this, I think that there was a little more to this than I originally was focused on. The charts on the wireframe are a bit generic and it's a bit tough to separate one section from another when the images are the same. If you've got actual sketches though, that may help. "
  
  Lizzie: "I think the wireframe definitely aligns well with the story arc. You're showing how EV technology has evolved since its introduction, and that's especially clear with the added information of the story arc. I don't really see much you should do to improve them, but I'd say you'd definitely want to show them together to get the full benefit. "
  
- ### "Looking at sketch #1, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
+### "Looking at sketch #1, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
  
  Blaise: "I see the different size dots first. The size difference is very noticeable, but I don't see anything clearly stated here that tells me what the size means. Is that number sold? After more time I'd probably suggest you work on a more engaging title for the chart. This one doesn't really inspire much."
  
@@ -160,7 +160,7 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
  
  Lizzie: "When I first look at this, I see the dots. My eye is drawn to the shapes, and then I begin to read the text next to each. I'm not sure what the text is telling me, so the next place I look would be the axes. The axes show me a progression in time as well as the price of the cars. I'm not seeing any explanation of the dot size though, so that's something I'd address for sure. "
  
-  ### "Looking at sketch #2, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
+### "Looking at sketch #2, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
   Blaise: "The first thing I see here is the legend. I'm drawn to the cluster of color and I want to see what I'm going to be looking at. As soon as I get my bearings with that, I'm focused on the chart itself. I see that power to the wheels is much higher for EV's relative to gas. That's actually very interesting. One thing I'd probably change though is that the colors are a bit bright. It's harder for me to distinguish what's going on here through all of that brightness."
   
@@ -168,7 +168,7 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
   
   Lizzie: " Looking at this chart, I see two bars of very bright colors. It seems to be a stacked bar chart, so they are comparing composition of two things. Looking at the x axis, we're comparing electric and gas cars. Taking a step back to read the legend and the y axis, I now understand that this is showing how much more efficiently electric cars use their energy. This is a pretty strong case in itself for the benefits of EV's. I'd be curious though how the costs of these energy sources differ. Is electric cheaper to run as well?"
   
-  ### "Looking at sketch #3, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
+### "Looking at sketch #3, what do you first notice about the chart? What do you notice after more time, and what would you then change?"
 
 Blaise: "This last sketch looks to me like a line chart. My eye is immediately drawn to the line itself, which has a steep downward slope. Next place my eye wanders is the y axis to see what is dropping so fast. It't pretty impressive how much the cost of photovoltaics have dropped, but I'm not sure right off the bat how this fits into all of this. I'd make sure you explain that when giving the presentation."
 
@@ -176,7 +176,7 @@ Steve: "When I first look at this sketch, I see the title "US Solar PV Price Dec
 
 Lizzie: "When I look at this image, I see a sharp downward slope in the cost of photovoltaics. I'm actually surprised at how quickly this is falling, but I wonder if that actually translates to install cost for single family homes where EV's would get the most benefit from solar. This might be something good to look into."
 
-  ### Review of Interviews
+### Review of Interviews
   
   The takeaways from these conversations definitely varied, and the diverse perspectives helped get me some different ideas as well. For the first question, I recieved 3 different answers, and I think some of the ambiguity in the results from my storyboard is because I used the stock charts which look very similar to each other. I will probably try to integrate snapshots of my sketches to provide some different images that give better context. 
   
