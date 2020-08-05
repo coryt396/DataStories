@@ -19,7 +19,7 @@ The target users here can be summed up with the following two user statements:
 
   2) I want to be informed about the latest technology in order to be an early adopter of the latest and greatest. 
 
-  The medium I intend to use for this presentation is Shorthand. This program appears to be a somewhat simple, yet powerful tool that will allow me to produce a high quality web-based presentation that can integrate all of the charts and media I hope to utilize. The media I plan to embed will include a timeline as well as some other charts that will probably consist of line and bar charts, but that is still yet to be determined!
+  The medium I intend to use for this presentation is Shorthand. This program appears to be a somewhat simple, yet powerful tool that will allow me to produce a high quality web-based presentation that can integrate all of the charts and media I hope to utilize. The media I plan to embed will include a timeline as well as some other charts that will probably consist of line and bar charts, but that is still yet to be determined. For color, being as this presentation is focused on green energy, I plan to make the primary colors green, yellow, blue, and gray. These colors will impart a sense of nature: sun, sky, plants, and clouds. The gray will also serve to denote traditional non-renewables, which are not the focus of the presentation.
 
 # Data
 
@@ -188,6 +188,8 @@ Lizzie: "When I look at this image, I see a sharp downward slope in the cost of 
    
    The final question was regarding sketch #3. This sketch was a line chart showing the decline in solar PV price.It wasn't immediately clear to some interviewees how this fit into everything to do with cars, so I'll need to make sure I address that either with another figure or just in discussion during my presentation. Another suggesion here was to create a composite chart for this as it is a very simple chart. With tihs suggesion, I coupled this with the growth in solar energy adoption for power generation in the US. This turned out to be a really good opportunity to put two simple charts together to one more robust point. Lastly, It was brought up that these prices may not directly translate to the price consumers pay in residential installations. I want to do some more digging at this source to see if I can find some figures or information to support or refute this idea. That would be a very important caveat if found to not translate to residential installs. At the very least that distinction would need to be called out somewhere on the figure.
   
+# Part 2
+
 
 
 Go back to the home page by clicking [here.](/README.md)
