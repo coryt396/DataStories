@@ -190,6 +190,25 @@ Lizzie: "When I look at this image, I see a sharp downward slope in the cost of 
   
 # Part 2
 
+After the first week of this project, I had the opportunity to get further feedback from colleagues in the course. I first walked them through the wireframe, and then the actual sketches. In doing so there were a few opportunities that were pointed out, which I'll summarize below.
 
+## Stacked bar chart for internal combustion vs. electric drive system efficiency
+For this chart, the feedback I received was specifically that it wasn't as intuitive and streamlined as some others. While it was a simple design, the complexity for the viewer came from the multiple different colors. Instead of keeping a variety of colors in play for the various avenues of energy losses, it was suggested that I simplify the chart to 2 or 3 colors to denote energy spent towards motion, energy recovered with regenerative braking, and energy losses. 
+In addition, one classmate offered that to really drive the point home it would be beneficial to put this benefit either in terms of environmental impact, or operating cost to the owner. With this in mind, I collected additional data on the average cost of a gallon of gasoline compared to the electricity that comprises the equivalent of a gallon of gasoline for integration in another complementary chart. I ended up both modifying the chart and including a new figure for the final product.
+
+## The call to action is discernable with context, but it will be important to really drive it home with a summary at the end. 
+For this, I reviewed my intended call to action - "With increases in the availability of renewable energy and advantageous pricing in vehicle cost and fuel costs, consider an electric car as your next vehicle." While I was intending to simply deliver this call to action as part of my final presentation, I see that for viewers reading the article after the fact the call to action may not be driven home without a section that calls it out specifically. For this reason, I intend to add a short paragraph at the end of the page summarizing the call to action and the benefits  of electric vehicles. After making these changes, I went to work on my Shorthand presentation.
+
+# Final Data Story
+
+With all of the preparation finished, I began to construct my final data story in shorthand. The aim of my presentation is to convince those on the fence about electric cars to consider one as their next vehicle. When considering this final audience, I would describe them as moderate environmentalists who are responsible spenders and have other priorities besides keeping up with the latest technological trends. The reason for these assumptions is because I would assume that:
+
+1. Dedicated environmentalists would likely have already adopted electric vehicle technology or stick exclusively to public and human powered transportation.
+2. Those with expendable income and environmental or early adoption tendencies would likely have already purchased electric vehicles. 
+3. Few people purchase cars more than once or twice a decade. For this reason, there is a good chance that some people were turned off by the downsides of early  electric cars and haven't given them another look since that time. 
+
+Because of this desired audience, I tailored my arguments towards showing the growing environmental benefit and noting how the one-time financial detriment is now a financial benefit for electric cars. These data driven, logical arguments should be enough to sway any reasonable person who falls into the target audience to seriously consider an electric vehicle as their next car. 
+
+Having this message in mind, and my skeleton from part 1 of this project, I was able to relatively quickly create a draft of my presentation in shorthand. Once this was complete, I had some further design choices to make in order to create finished quality charts. The first consideration was the color scheme. My goal for the color scheme was to use natural colors that envoke the idea of renewable energy. For this reason, I chose to use green, yellow, blue, and gray. Green also has the additional benefit of it's tie to currency and financial wellbeing. Since both of these themes tie into my goal of showing the financial and environmental benefits of modern electric cars, this color scheme is well suited for my project. 
 
 Go back to the home page by clicking [here.](/README.md)
