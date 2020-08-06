@@ -15,6 +15,7 @@ The Story Arc intended to be the basis for this presentation is shown below.
   As time progressed however, battery technology improved, renewable resources began to comprise a larger portion of the electricity generated for the power grid, and EV's became more stylish. With these changes, it is more attractive than ever to purchase an EV for regular use. The call to action here would be to encourage people who wouldn't normally consider EV's  to look deeper at them before the next time they shop for a car. 
 
 The target users here can be summed up with the following two user statements:
+
   1) I want to be informed about green technology in order to make a positive difference in the levels of global pollution.
 
   2) I want to be informed about the latest technology in order to be an early adopter of the latest and greatest. 
@@ -125,6 +126,7 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
   For my story, I hope to reach a target audience who is both willing to try new technology and who is looking to help in the initiative to minimize our carbon footprint. The most wealthy and dedicated early adopters and environmentalists are likely to have already joined the EV movement, but those who did not previously have the financial means to purchase the best EV's and more casual environmentalists may not have made the switch yet. These people are who I am looking to reach with this information. With the latest information provided and their previous inclination to adopt this sort of technology, I am confident that they will be convinced to at least consider an EV as their next car purchase.  
   
   For my interviewees, I chose from my close friends and picked a sub-section who are located across the spectrum of likelihood to become convinced to buy an EV. My brother is mechanically inclined, and currently owns a muscle car - quite the opposite of an EV. I don't think he'll be very willing to consider an EV because of his affinity for traditional automotive design and performance. While one could make the case that the performance of the latest EV's are impressive as well, I am sticking to the renewable energy and affordable nature of EV's as my main selling points. Another friend of mine is pretty ambivalent about cars. He owns a subaru and likes it well enough, but he's definitely not a car guy. He will probably be a wild card and could go either way. Lastly, I plan to interview my wife who I think will be very open to the idea. She is environmentally conscious, and also is as frugal as me. I would be willing to bet that she is very open to the idea of an EV as our next car after I make my case. 
+  
   For my interview, I plan to use the following script:
   "Based on this Wireframe, What do you believe the message is that I'm trying to convey?"
   
@@ -138,7 +140,9 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
 
   
  Upon conducting my interviews, these are the responses I received:
+ 
 ### "Based on this Wireframe, What do you believe the message is that I'm trying to convey?"
+
  Blaise: "Is the takeaway here that alternative energy is on the rise? I see you're talking about solar costs too, why is that specifically called out?"
  
  Steve: "If I had to guess, you're trying to convey that Electric vehicles are better than gas vehicles."
@@ -146,6 +150,7 @@ The initial wireframe for my project shows how I intend to lay out the data. I p
  Lizzie: "I think you're trying to show how technology is improving and how it enables us to contribute to a more renewable future."
  
 ### Does the wireframe I showed you align well with this message within the story arc? If not, how could I improve it?"
+
  Blaise: "Yeah, now that I see this story arc, things actually got a little more clear. I see how the progression was supposed to go. I'd say they align well enough that with full context I think they're doing the job they are supposed to"
  
  Steve: "Looking at this, I think that there was a little more to this than I originally was focused on. The charts on the wireframe are a bit generic and it's a bit tough to separate one section from another when the images are the same. If you've got actual sketches though, that may help. "
@@ -193,10 +198,12 @@ Lizzie: "When I look at this image, I see a sharp downward slope in the cost of 
 After the first week of this project, I had the opportunity to get further feedback from colleagues in the course. I first walked them through the wireframe, and then the actual sketches. In doing so there were a few opportunities that were pointed out, which I'll summarize below.
 
 ## Stacked bar chart for internal combustion vs. electric drive system efficiency
+
 For this chart, the feedback I received was specifically that it wasn't as intuitive and streamlined as some others. While it was a simple design, the complexity for the viewer came from the multiple different colors. Instead of keeping a variety of colors in play for the various avenues of energy losses, it was suggested that I simplify the chart to 2 or 3 colors to denote energy spent towards motion, energy recovered with regenerative braking, and energy losses. 
 In addition, one classmate offered that to really drive the point home it would be beneficial to put this benefit either in terms of environmental impact, or operating cost to the owner. With this in mind, I collected additional data on the average cost of a gallon of gasoline compared to the electricity that comprises the equivalent of a gallon of gasoline for integration in another complementary chart. I ended up both modifying the chart and including a new figure for the final product.
 
 ## The call to action is discernable with context, but it will be important to really drive it home with a summary at the end. 
+
 For this, I reviewed my intended call to action - "With increases in the availability of renewable energy and advantageous pricing in vehicle cost and fuel costs, consider an electric car as your next vehicle." While I was intending to simply deliver this call to action as part of my final presentation, I see that for viewers reading the article after the fact the call to action may not be driven home without a section that calls it out specifically. For this reason, I intend to add a short paragraph at the end of the page summarizing the call to action and the benefits  of electric vehicles. After making these changes, I went to work on my Shorthand presentation.
 
 # The Final Data Story
@@ -204,7 +211,9 @@ For this, I reviewed my intended call to action - "With increases in the availab
 With all of the preparation finished, I began to construct my final data story in shorthand. The aim of my presentation is to convince those on the fence about electric cars to consider one as their next vehicle. When considering this final audience, I would describe them as moderate environmentalists who are responsible spenders and have other priorities besides keeping up with the latest technological trends. The reason for these assumptions is because I would assume that:
 
 1. Dedicated environmentalists would likely have already adopted electric vehicle technology or stick exclusively to public and human powered transportation.
+
 2. Those with expendable income and environmental or early adoption tendencies would likely have already purchased electric vehicles. 
+
 3. Few people purchase cars more than once or twice a decade. For this reason, there is a good chance that some people were turned off by the downsides of early  electric cars and haven't given them another look since that time. 
 
 Because of this desired audience, I tailored my arguments towards showing the growing environmental benefit and noting how the one-time financial detriment is now a financial benefit for electric cars. These data driven, logical arguments should be enough to sway any reasonable person who falls into the target audience to seriously consider an electric vehicle as their next car. 
