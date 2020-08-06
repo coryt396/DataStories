@@ -34,13 +34,13 @@ Nissan Leaf: $25,000
 [motortrend](https://www.motortrend.com/news/2010-nissan-leaf-first-look/))
 
 Prius: $32,000
-https://www.cnet.com/roadshow/reviews/2012-toyota-prius-plug-in-review/
+[cnet.com](https://www.cnet.com/roadshow/reviews/2012-toyota-prius-plug-in-review/)
 
 Model S: $57,400
-https://www.autotrader.com/tesla/model-s/2012
+[autotrader.com](https://www.autotrader.com/tesla/model-s/2012)
 
 Ford C-Max: $26,000
-https://www.hybridcars.com/ford-c-max-hybrid/
+[hybridcars.com](https://www.hybridcars.com/ford-c-max-hybrid/)
 
 The data gained from these sources will allow me to put into perspective the relative costs and electric range possible at the various price points for these electric cars. I intend the data to show that the pure electric car plays with practical range were either cost prohibitive or the Nissan Leaf... though one could make the case that the Leaf didn't have very practical mileage for anything but a short commute with just 73 miles of range. 
 
@@ -213,13 +213,13 @@ Having this message in mind, and my skeleton from part 1 of this project, I was 
 
 Once the color scheme was determined, I moved on to finalizing the data required to finish up the presentation. The following sources are the ones that I eventually settled on.
 
-In order to tell my story, I started with the history of the electric car. I was able to find a reliable source for this information at [energy.gov](/https://www.energy.gov/timeline/timeline-history-electric-car). 
+In order to tell my story, I started with the history of the electric car. I was able to find a reliable source for this information at [energy.gov](https://www.energy.gov/timeline/timeline-history-electric-car). 
 
-Next, I used [afdc.energy.gov](/https://afdc.energy.gov/data/10567) to gather a list of the top selling electric vehicles from 2008 to 2012 as well as in 2019. These statistics would allow me to draw up the comparison between early electric vehicles and the most recent ones to enter the market. As an additional data point for reference, I gathered information on the average new vehicle purchase price by year from a page compiling data from [bea.gov](/https://blog.chron.com/carsandtrucks/2016/04/cost-of-a-car-in-the-year-you-were-born/). The bulk of additional information about the individual cars singled out for this data set was gathered through wikipedia, where much of the historical facts and figures were listed. 
+Next, I used [afdc.energy.gov](https://afdc.energy.gov/data/10567) to gather a list of the top selling electric vehicles from 2008 to 2012 as well as in 2019. These statistics would allow me to draw up the comparison between early electric vehicles and the most recent ones to enter the market. As an additional data point for reference, I gathered information on the average new vehicle purchase price by year from a page compiling data from [bea.gov](https://blog.chron.com/carsandtrucks/2016/04/cost-of-a-car-in-the-year-you-were-born/). The bulk of additional information about the individual cars singled out for this data set was gathered through wikipedia, where much of the historical facts and figures were listed. 
 
-The next step in showing the benefits of these vehicles was to explain how renewable energy usage is growing as a share of US power generation. For this data set, I found a great resource in [eia.gov](/https://www.eia.gov/energyexplained/renewable-sources/#:~:text=From%20the%20late%201800's%20until,the%20major%20sources%20of%20energy.&text=The%20electric%20power%20sector%20accounted,was%20from%20renewable%20energy%20sources.). Additionally, I intended to show how solar energy usage is growing exceptionally fast and that the price of the equipment involved in utilizing this energy source is becoming cheaper every year. For the solar energy information, I found a great source in [seia.org](/https://www.seia.org/solar-industry-research-data).
+The next step in showing the benefits of these vehicles was to explain how renewable energy usage is growing as a share of US power generation. For this data set, I found a great resource in [eia.gov](https://www.eia.gov/energyexplained/renewable-sources/#:~:text=From%20the%20late%201800's%20until,the%20major%20sources%20of%20energy.&text=The%20electric%20power%20sector%20accounted,was%20from%20renewable%20energy%20sources.). Additionally, I intended to show how solar energy usage is growing exceptionally fast and that the price of the equipment involved in utilizing this energy source is becoming cheaper every year. For the solar energy information, I found a great source in [seia.org](https://www.seia.org/solar-industry-research-data).
 
-The final piece in this puzzle that I intended to highlight was the relative energy efficiency of electric vehicles. This data was found at [fueleconomy.gov](/https://www.fueleconomy.gov/feg/atv.shtml). In addition to this energy efficiency, I thought it would be necessary to tie this figure to real dollars which would help to really cement the financial benefit to everyday drivers. This crucial information was found at another government website, [energy.gov](/https://www.energy.gov/maps/egallon). 
+The final piece in this puzzle that I intended to highlight was the relative energy efficiency of electric vehicles. This data was found at [fueleconomy.gov](https://www.fueleconomy.gov/feg/atv.shtml). In addition to this energy efficiency, I thought it would be necessary to tie this figure to real dollars which would help to really cement the financial benefit to everyday drivers. This crucial information was found at another government website, [energy.gov](https://www.energy.gov/maps/egallon). 
 
 In completing this assignment, I gained exposure to a multitude of data visualization tools. My previous experiences in this regard consisted of only microsoft powerpoint presentations, and with just a short time spent using these other tools I now see that dedicated data visualization programs are extremely powerful and can deliver complicated messages in a quicker and more visually engaging way. Additionally, one of the biggest takeaways of this project was that extremely simple chart types can be just as effective as complex charts, and in some cases even moreso.
 
