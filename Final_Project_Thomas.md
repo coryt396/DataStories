@@ -223,7 +223,7 @@ The final piece in this puzzle that I intended to highlight was the relative ene
 
 In completing this assignment, I gained exposure to a multitude of data visualization tools. My previous experiences in this regard consisted of only microsoft powerpoint presentations, and with just a short time spent using these other tools I now see that dedicated data visualization programs are extremely powerful and can deliver complicated messages in a quicker and more visually engaging way. Additionally, one of the biggest takeaways of this project was that extremely simple chart types can be just as effective as complex charts, and in some cases even moreso.
 
-The final project can be viewed on [this shorthand page here.](/https://carnegiemellon.shorthandstories.com/the-electric-vehicle--recharged/index.html)
+The final project can be viewed on [this shorthand page here.](https://carnegiemellon.shorthandstories.com/the-electric-vehicle--recharged/index.html)
 
 
 
